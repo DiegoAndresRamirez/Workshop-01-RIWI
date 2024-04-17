@@ -13,3 +13,5 @@ let miObjeto = {
     Lastname : "Ramirez"
 }
 console.log(miObjeto)
+let nombreUsuario = prompt("ingresa tu nombre:  ")
+alert (`¡Hola ${nombreUsuario}, comom estas?!`)
