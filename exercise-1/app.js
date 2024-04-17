@@ -3,3 +3,5 @@ let miNumero = 10
 console.log(miNumero)
 let miBooleano = true
 console.log(typeof miBooleano)
+let miCadena = "Hola Mundo"
+console.log(miCadena.length)
