@@ -7,3 +7,9 @@ let miCadena = "Hola Mundo"
 console.log(miCadena.length)
 let miArray = ["Hola", 5, [1, 2, 3]]
 console.log(miArray)
+let miObjeto = {
+    name: "Diego",
+    age: 18,
+    Lastname : "Ramirez"
+}
+console.log(miObjeto)
