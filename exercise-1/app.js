@@ -15,3 +15,5 @@ let miObjeto = {
 console.log(miObjeto)
 let nombreUsuario = prompt("ingresa tu nombre:  ")
 alert (`¡Hola ${nombreUsuario}, comom estas?!`)
+let DoYouLikeJavaScript = confirm("¿Te gusta Javascript?")
+DoYouLikeJavaScript ? console.log("!Te gusta JavaScript¡") : console.log("!No te gusta¡")
