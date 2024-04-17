@@ -5,3 +5,5 @@ let miBooleano = true
 console.log(typeof miBooleano)
 let miCadena = "Hola Mundo"
 console.log(miCadena.length)
+let miArray = ["Hola", 5, [1, 2, 3]]
+console.log(miArray)
