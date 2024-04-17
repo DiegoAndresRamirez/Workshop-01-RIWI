@@ -20,3 +20,5 @@ DoYouLikeJavaScript ? console.log("!Te gusta JavaScript¡") : console.log("!No t
 console.warn("esto es solo una practica")
 let error = confirm("Click en lo que sea")
 error ? console.error("ERROR 404") : console.error("ERROR 404")
+let miArray2 = ["1","2", "3", "4", "5"]
+console.table(miArray2)
